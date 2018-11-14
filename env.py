@@ -1,4 +1,4 @@
 import os
-os.environ.setdefault("SECRET_KEY", "'@^#yo215c8_v9q889cnobk4on00@7zfp(=loo@yf9s^7#4t7yy'")
+os.environ.setdefault("SECRET_KEY", "'s*9hx4b8a7-j4f#0%yrktai=7s3f5ihbht@f8hi_z3i52gnc5i'")
 
-os.environ.setdefault("DATABASE_URL", "postgres://admjljwpemhrua:2f336e248fcebd073c64c295d97cc72b4e5525b67d9fa5d49590de6c3d481e5c@ec2-54-217-250-0.eu-west-1.compute.amazonaws.com:5432/d3398sp5tljhkp")
+os.environ.setdefault("DATABASE_URL", "postgres://zutvckfyemdlii:1c620fea76cb0c1684817c64a450f12fd134c7e4e452f859accccc255fd21b49@ec2-54-217-250-0.eu-west-1.compute.amazonaws.com:5432/d7o3gpbpp7d90f")
